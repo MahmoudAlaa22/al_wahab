@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616356779639",
+    "firebase_url": "https://ashraf-c934e.firebaseio.com",
+    "project_id": "ashraf-c934e",
+    "storage_bucket": "ashraf-c934e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616356779639:android:b41d2350e249a5c12f5872",
+        "android_client_info": {
+          "package_name": "com.mahmoud.al_wahab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616356779639-hvpvh0i4k2rr383bbnddt04oekbrh0jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgG9UC9DNBEtBR0r0-6FOjB9MUYEi4T1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616356779639-hvpvh0i4k2rr383bbnddt04oekbrh0jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
